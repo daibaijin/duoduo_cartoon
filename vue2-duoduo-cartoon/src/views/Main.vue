@@ -21,7 +21,7 @@
                 </a>
              </div>
       </el-col>
-      <el-col :span="8">
+      <el-col :span="10">
 
         <!-- 导航栏 -->
         <el-menu :default-active="m1" class="el-menu-demo"  
@@ -61,7 +61,7 @@
       </el-menu>   
             
       </el-col>
-      <el-col :span="12">
+      <el-col :span="10">
            
        <el-autocomplete popper-class="my-autocomplete" v-model="state" class="searchbox"
          :fetch-suggestions="querySearch" placeholder="请输入内容"

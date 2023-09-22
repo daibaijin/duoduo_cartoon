@@ -3,8 +3,8 @@
         <!-- 上面 -->
         <div class="manga-nav" ref="top" @click="showtoolbox" @mouseenter="showtoolbox">
             <div class="manga-logo">
-                <img src="../assets/logo.png" alt="">
-                <div class="logo-title">哔哩哔哩漫画</div>
+                <!-- <img src="../assets/logo.png" alt=""> -->
+                <div class="logo-title">多多漫画</div>
             </div>
             <div class="wrapper">
                 <!-- 13>1234123>123 123 -->
